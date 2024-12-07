@@ -33,6 +33,7 @@ from .ekho import Ekho
 from .elevenlabs import ElevenLabs
 from .espeak import ESpeak
 from .festival import Festival
+from .fishaudio import FishAudio
 from .fptai import FptAi
 from .google import Google
 from .googletts import GoogleTTS

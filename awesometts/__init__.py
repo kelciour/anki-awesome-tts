@@ -212,6 +212,7 @@ router = Router(
             ('elevenlabs', service.ElevenLabs),
             ('espeak', service.ESpeak),
             ('festival', service.Festival),
+            ('fishaudio', service.FishAudio),
             ('fptai', service.FptAi),
             ('google', service.Google),
             ('googletts', service.GoogleTTS),
